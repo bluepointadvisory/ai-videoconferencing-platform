@@ -1,4 +1,4 @@
-# AI-Enhanced Videoconferencing Platform
+# AIMeetings - AI-Enhanced Videoconferencing Platform
 
 ## Project Vision
 Build a functional, working videoconferencing platform with real-time AI transcription (Deepgram API) and AI-enhanced insights (OpenAI API screen capture/contextualization).

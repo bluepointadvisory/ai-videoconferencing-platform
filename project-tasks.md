@@ -1,4 +1,4 @@
-# AI-Enhanced Videoconferencing Platform - Task Management
+# AIMeetings - Task Management
 
 ## Task Status Legend
 - ⏳ **Pending**: Task not yet started
